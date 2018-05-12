@@ -1,0 +1,31 @@
+_repo: O-Ensino-da-Historia-da-Arte-nos-Lyceus-e-as-excurs-es-escolares_24844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vasconcellos, Joaquim de
+    aliases:
+    - Vasconcellos, Joaquim António da Fonseca e
+    - Vasconcellos, Joaquim Antonio da Fonseca e
+    - Vasconcelos, Joaquim de
+    birthdate: 1849
+    deathdate: 1936
+    gutenberg_agent_id: '26767'
+    url: http://www.gutenberg.org/2009/agents/26767
+    wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Ant%C3%B3nio_da_Fonseca_Vasconcelos
+description: ''
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24844'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art -- History -- Study and teaching'
+- !lcc 'N'
+title: O Ensino da Historia da Arte nos Lyceus e as excursões escolares
+url: http://www.gutenberg.org/ebooks/24844
