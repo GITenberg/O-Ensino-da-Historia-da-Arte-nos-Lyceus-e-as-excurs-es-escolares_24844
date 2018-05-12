@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26767
     wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Ant%C3%B3nio_da_Fonseca_Vasconcelos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24844#O-Ensino-da-Historia-da-Arte-nos-Lyceus-e-as-excurs-es-escolares
 gutenberg_issued: '2008-03-16'
 gutenberg_type: Text
 identifiers:
